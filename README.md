@@ -117,4 +117,3 @@ sudo apt-get install libmysqlclient-dev
 g++ -o main main.cpp Connection.cpp -I/usr/include/mysql -lmysqlclient
 ```
 
-# ConnectionPool
